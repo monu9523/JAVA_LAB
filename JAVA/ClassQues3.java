@@ -29,7 +29,7 @@ public class ClassQues3 {
         if(420<sum){
             System.out.println("0-Grade");
         }
-        if(420<sum<350){
+        if(420 < sum < 350){
             System.out.println("e grade");
 
         }
